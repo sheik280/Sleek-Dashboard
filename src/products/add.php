@@ -27,7 +27,7 @@ include_once __DIR__ . '/../header.php'
     <div class="col-12">
       <div class="card card-default">
         <div class="card-header card-header-border-bottom">
-          <h2>Editar</h2>
+          <h2>Registrar</h2>
         </div>
         <div class="card-body">
           <form>
